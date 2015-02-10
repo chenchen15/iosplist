@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.22.85.147/TBClient/TBClient_b.png</string>
+					<string>http://dev039.baidu.com:8000/img/icon2.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<true/>
 					<key>url</key>
-					<string>http://172.22.85.147/TBClient/TBClient_s.png</string>
+					<string>http://dev039.baidu.com:8000/img/icon.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
