@@ -29,9 +29,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.baidu.Tieba.TBClient.ios8</string>
-				<key>bundle-version</key>
-				<string>1.0</string>
+				<string>com.baidu.Tieba.TBClient</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
