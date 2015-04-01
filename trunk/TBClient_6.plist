@@ -29,7 +29,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>6T9LLJKSM4.com.baidu.Tieba.TBClient</string>
+				<string>B83JBVZ6M5.com.baidu.Tieba.TBClient</string>
+				<key>bundle-version</key>
+    				<string>7.2.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
