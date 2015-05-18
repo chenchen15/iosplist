@@ -11,25 +11,25 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://cq01-testing-forum71.vm.baidu.com:8080/job/Tieba_IOS_TrunkCheckIn_71_DOUJ/9/artifact/Products/TBClient_9.ipa</string>
+					<string>http://cq01-testing-forum71.vm.baidu.com:8080/job/Tieba_IOS_TrunkCheckIn_71_DOUJ_6-7-0/9/artifact/Products/TBClient_9.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://dev039.baidu.com:8000/img/icon.png</string>
+					<string>http://cp01-rdqa04-dev117.cp01.baidu.com:8111/resource/images/logo-tieba.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://dev039.baidu.com:8000/img/icon2.png</string>
+					<string>http://cp01-rdqa04-dev117.cp01.baidu.com:8111/resource/images/logo-tieba.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.baidu.Tieba.TBClient</string>
+				<string>com.baidu.Tieba.TBClientios8</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
