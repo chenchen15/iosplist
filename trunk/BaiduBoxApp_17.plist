@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://ci.tieba.baidu.com/job/Tieba_SDK_TrunkCheckIn_DOUJ_Main/17/artifact/Products/testTBCSDK_17.ipa</string>
+					<string>http://ci.tieba.baidu.com/job/Tieba_SDK_TrunkCheckIn_DOUJ_Main/17/artifact/Products/BaiduBoxApp_17.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
